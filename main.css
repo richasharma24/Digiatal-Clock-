@@ -1,0 +1,17 @@
+.clock {
+	background: #ea8a8a;
+	width: 300px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.clock-time, .clock-ampm {
+	font-family: 'Concert One', cursive;
+	font-size: 30px;
+	color: black;
+}
+
+.clock-time {
+	font-size: 50px;
+}
